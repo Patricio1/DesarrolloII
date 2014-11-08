@@ -1,0 +1,6 @@
+C:\Users\acer\Desktop\clonacion\DesarrolloII\aplicacionCsharp\bin\Debug\aplicacionCsharp.exe
+C:\Users\acer\Desktop\clonacion\DesarrolloII\aplicacionCsharp\bin\Debug\aplicacionCsharp.pdb
+C:\Users\acer\Desktop\clonacion\DesarrolloII\aplicacionCsharp\obj\x86\Debug\aplicacionCsharp.Properties.Resources.resources
+C:\Users\acer\Desktop\clonacion\DesarrolloII\aplicacionCsharp\obj\x86\Debug\aplicacionCsharp.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\clonacion\DesarrolloII\aplicacionCsharp\obj\x86\Debug\aplicacionCsharp.exe
+C:\Users\acer\Desktop\clonacion\DesarrolloII\aplicacionCsharp\obj\x86\Debug\aplicacionCsharp.pdb

@@ -17,6 +17,8 @@ namespace aplicacionCsharp
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //hola mundo
+            //UTA FISEI
+            //webi@ndo
         }
     }
 }
