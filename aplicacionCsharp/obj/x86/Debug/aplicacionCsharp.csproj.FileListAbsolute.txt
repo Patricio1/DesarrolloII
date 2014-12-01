@@ -6,3 +6,5 @@ C:\Users\acer\Desktop\clonacion\DesarrolloII\aplicacionCsharp\obj\x86\Debug\apli
 C:\Users\acer\Desktop\clonacion\DesarrolloII\aplicacionCsharp\obj\x86\Debug\aplicacionCsharp.pdb
 C:\Users\acer\Desktop\clonacion\LM\DesarrolloII\aplicacionCsharp\obj\x86\Debug\aplicacionCsharp.exe
 C:\Users\acer\Desktop\clonacion\LM\DesarrolloII\aplicacionCsharp\obj\x86\Debug\aplicacionCsharp.pdb
+C:\Users\USUARIO15\Desktop\prueba_cl\HOLA\DesarrolloII\aplicacionCsharp\obj\x86\Debug\aplicacionCsharp.exe
+C:\Users\USUARIO15\Desktop\prueba_cl\HOLA\DesarrolloII\aplicacionCsharp\obj\x86\Debug\aplicacionCsharp.pdb
